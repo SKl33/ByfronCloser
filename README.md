@@ -19,7 +19,10 @@
 5. And now open roblox and you done!!
 
 
-https://streamable.com/xa0auv
+Proof: https://streamable.com/xa0auv 
+
+If it's not working then it's PATCHED and we will try fixing it
+
 
 
 
