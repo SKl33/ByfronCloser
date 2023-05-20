@@ -2,7 +2,7 @@
 
 - A better Byfron Killer to make you're exploits work.
 
-- This app should restart the process of you're default browser*.
+- This app should close the apps process.
 
 - It has no detects BTW so you can use it with anti-virus on.
 
@@ -14,7 +14,7 @@
 
 3. Wait till Byfron Killer bypass the Roblox process.
 
-4. This will make you're browser close but you can restart it anytime.
+4. This will make you're apps close but you can restart it anytime.
 
 5. And now open roblox and you done!!
 
