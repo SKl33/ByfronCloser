@@ -23,6 +23,10 @@ Proof: https://streamable.com/xa0auv
 
 If it's not working then it's PATCHED and we will try fixing it
 
+# New Update
+
+- Fixed for Windows 11
+
 
 
 
